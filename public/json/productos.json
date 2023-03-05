@@ -1,0 +1,361 @@
+[
+
+  {
+      "id": 1,
+      "idCategoria":"Charvel-Guitars",
+      "nombre": "Charvel Pro-MOD So-Cal",
+      "marca": "Charvel",
+      "modelo": "Style 2 24 HH 2PT - Black Ash - CM",
+      "precio": 1290000,
+      "stock": 30,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/1.jpeg?alt=media&token=429e184b-22bf-4558-b858-d7dab96d9407"
+  },
+  {
+      "id": 2,
+      "idCategoria": "Charvel-Guitars",
+      "nombre": "Charvel Pro-Mod So-Cal",
+      "marca": "Charvel",
+      "modelo": "Style 1 HH FR - Vintage White - MP",
+      "precio": 1120000,
+      "stock": 20,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/2.jpeg?alt=media&token=08435f33-707f-4c32-b22b-cef7d01a7b88"
+  },
+  {
+      "id": 3,
+      "idCategoria":"Charvel-Guitars" ,
+      "nombre": "Charvel Pro-Mod San Dimas",
+      "marca": "Charvel",
+      "modelo": "Style 1 HSS FR - Platinum Pearl - MP",
+      "precio": 1310000,
+      "stock": 15,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/3.jpeg?alt=media&token=7cd8b497-f8fe-40e9-a4f2-9b151b3bc413"
+  },
+  {
+      "id": 4,
+      "idCategoria": "Charvel-Guitars",
+      "nombre": "Charvel Pro-Mod DK24 ",
+      "marca": "Charvel",
+      "modelo": "HH 2PT CM - Matte Blue Frost",
+      "precio": 1270000,
+      "stock": 30,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/4.jpeg?alt=media&token=136db261-a5dd-4705-80c6-f4c5c4f0e97e"
+  },
+
+
+
+
+
+  {
+      "id": 5,
+      "idCategoria": "Jackson-Guitars",
+      "nombre": "Jackson X Series Soloist",
+      "marca": "Jackson",
+      "modelo": "SLX DX Camo Multi-Color Camo",
+      "precio": 1065000,
+      "stock": 7,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/5.jpeg?alt=media&token=289f91d3-29b9-4480-9076-e655c891c556"
+  },
+  {
+      "id": 6,
+      "idCategoria": "Jackson-Guitars",
+      "nombre": "Jackson JS Series Dinky",
+      "marca": "Jackson",
+      "modelo": "Arch Top JS32Q DKA - Transparent Green Burst",
+      "precio": 505000,
+      "stock": 20,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/6.jpeg?alt=media&token=cdcea2f6-bbd2-4a0b-baba-b1536f2a182b"
+  },
+  {
+      "id": 7,
+      "idCategoria": "Jackson-Guitars",
+      "nombre": "Jackson HT7 Juggernaut Misha",
+      "marca": "Jackson",
+      "modelo": "Mansoor Signature Serie Pro,Caramelized",
+      "precio": 525000,
+      "stock": 10,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/7.jpeg?alt=media&token=c1068cfb-6b4a-4f4b-9750-2eb24ffba74f"
+  },
+  {
+      "id": 8,
+      "idCategoria": "Jackson-Guitars",
+      "nombre": "Jackson SDXM",
+      "marca": "Jackson",
+      "modelo": "Adrian Smith Signature Serie X, Maple Fingerboard",
+      "precio": 700000,
+      "stock": 30,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/8.jpeg?alt=media&token=44262481-4b09-404d-a927-4b74dab56f1c"
+  },
+
+
+
+
+
+
+
+  {
+      "id": 9,
+      "idCategoria": "Chapman-Guitars",
+      "nombre": "Chapman Guitars ML3 ",
+      "marca": "Chapman",
+      "modelo": "Pro BEA Carthus Burst - Rabea Massaad",
+      "precio": 2120000,
+      "stock": 21,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/9.jpeg?alt=media&token=02dc42b0-f127-48b7-9733-45f619279f40"
+  },
+  {
+      "id": 10,
+      "idCategoria": "Chapman-Guitars",
+      "nombre": "Chapman Guitars ML3 Pro",
+      "marca": "Chapman",
+      "modelo": "Traditional Classic Argent Metalli",
+      "precio": 1120000,
+      "stock": 25,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/10.jpeg?alt=media&token=9845f684-19a5-4c6e-b7aa-2b7b277bb9fc"
+  },
+  {
+      "id": 11,
+      "idCategoria": "Chapman-Guitars",
+      "nombre": "Chapman Guitars ML3 Pro ",
+      "marca": "Chapman",
+      "modelo": "Traditional Classic Black Metallic",
+      "precio": 1120000,
+      "stock": 30,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/11.jpeg?alt=media&token=171afb84-5910-4717-b4fa-a9fd5d3719f0"
+  },
+  {
+      "id": 12,
+      "idCategoria": "Chapman-Guitars",
+      "nombre": "Chapman Guitars ML3 Semi Hollow",
+      "marca": "Chapman",
+      "modelo": "Pro Traditional Blue Sparke",
+      "precio": 1180000,
+      "stock": 20,
+      "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/12.jpeg?alt=media&token=df9aa80e-e9f5-43df-99db-281f4ffe5917"
+  },
+
+
+
+
+  {
+    "id": 13,
+    "idCategoria": "Prs-Guitars",
+    "nombre": "PRS Guitars 35th Anniversary",
+    "marca": "PRS Guitars",
+    "modelo": "Custom 24, Custom Dark Blue Burst",
+    "precio": 4830000,
+    "stock": 13,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/13.jpeg?alt=media&token=d2c73e76-a701-4e7c-8a8a-27d2f5241b34"
+  },
+  {
+    "id": 14,
+    "idCategoria": "Prs-Guitars",
+    "nombre": "PRS Guitars Custom 24 Piezo",
+    "marca": "PRS Guitars",
+    "modelo": "10 Top, Dark Amethyst Burst",
+    "precio": 5190000,
+    "stock": 20,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/14.jpeg?alt=media&token=5ca5ce35-321e-4b3f-b775-5bb71ab26b56"
+  },
+
+  {
+    "id": 15,
+    "idCategoria": "Prs-Guitars",
+    "nombre": "PRS Guitars S2 Singlecut",
+    "marca": "PRS Guitars",
+    "modelo": "McCarty 594 Dark Wine Burst",
+    "precio": 2140000,
+    "stock": 24,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/15.jpeg?alt=media&token=b70062dd-506d-42f1-8a6c-40e31643eb3f"
+  },  
+
+  {
+    "id": 16,
+    "idCategoria": "Prs-Guitars",
+    "nombre": "PRS Guitars CE 24 Semi-hollow",
+    "marca": "PRS Guitars",
+    "modelo": "Custom Cherry Burst, Black Neck",
+    "precio": 2850000,
+    "stock": 29,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/16.jpeg?alt=media&token=b8be55aa-dd52-4c87-b3e4-622d5e13cabf"
+},
+
+
+
+
+{
+    "id": 17,
+    "idCategoria": "Warwick-Bass",
+    "nombre": "Warwick RockBass",
+    "marca": "Warwick",
+    "modelo": "Corvette Basic 4 - Solid White",
+    "precio": 780000,
+    "stock": 13,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/17.jpeg?alt=media&token=34a763af-4017-42a1-831a-d2b5efb03364"
+  },
+  {
+    "id": 18,
+    "idCategoria": "Warwick-Bass",
+    "nombre": "Warwick RockBass",
+    "marca": "Warwick",
+    "modelo": "Corvette Basic 5 - Natural Satin",
+    "precio": 805000,
+    "stock": 20,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/18.jpeg?alt=media&token=b8c6e7d9-6d31-4673-b42c-3e8ad6c9f506"
+  },
+
+  {
+    "id": 19,
+    "idCategoria": "Warwick-Bass",
+    "nombre": "Warwick RockBass",
+    "marca": "Warwick",
+    "modelo": "Corvette Classic 4 - Almond Sunburst",
+    "precio": 840000,
+    "stock": 24,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/19.jpeg?alt=media&token=afb2c966-13d3-47c9-9e86-ea74ac959eeb"
+  },  
+  
+  {
+    "id": 20,
+    "idCategoria": "Warwick-Bass",
+    "nombre": "Warwick RockBass",
+    "marca": "Warwick",
+    "modelo": "Streamer Standard 5 - Natural Satin",
+    "precio": 710000,
+    "stock": 29,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/20.jpeg?alt=media&token=d1deb03c-cbaf-4315-a25c-d5f6f20b7d39"
+},
+
+
+
+{
+    "id": 21,
+    "idCategoria": "Dingwall-Bass",
+    "nombre": "Dingwall NG-3",
+    "marca": "Dingwall",
+    "modelo": "4-String Matte Gold Metallic",
+    "precio": 2435000,
+    "stock": 13,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/21.jpeg?alt=media&token=c0c5a013-ecf0-4d26-b616-5c4cd3543cd1"
+  },
+  {
+    "id": 22,
+    "idCategoria": "Dingwall-Bass",
+    "nombre": "Dingwall NG-3",
+    "marca": "Dingwall",
+    "modelo": "String Left Hand Ducati White",
+    "precio": 2750000,
+    "stock": 20,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/22.jpeg?alt=media&token=c7b1d1e2-7136-43b1-a1a0-d0da4c374e99"
+  },
+
+  {
+    "id": 23,
+    "idCategoria": "Dingwall-Bass",
+    "nombre": "Dingwall D-ROC",
+    "marca": "Dingwall",
+    "modelo": "Standard Matte Blue to Purple Colorshift",
+    "precio": 1840000,
+    "stock": 24,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/23.jpeg?alt=media&token=e7cf46ba-d5f0-47f6-b738-dc1ecf4aa237"
+  },  
+  
+  {
+    "id": 24,
+    "idCategoria": "Dingwall-Bass",
+    "nombre": "Dingwall Combustion",
+    "marca": "Dingwall",
+    "modelo": "6-String Indigoburst",
+    "precio": 2500000,
+    "stock": 29,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/24.jpeg?alt=media&token=b6d12f91-07f1-44cd-a552-04c7a008db76"
+},
+
+
+
+{
+    "id": 25,
+    "idCategoria": "Sadowsky-Bass",
+    "nombre": "Sadowsky MetroExpress",
+    "marca": "Sadowsky",
+    "modelo": "JJ 4 - Black - MA",
+    "precio": 585000,
+    "stock": 13,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/25.jpeg?alt=media&token=f1898542-eef8-4443-ae99-f2b9573e02e3"
+  },
+  {
+    "id": 26,
+    "idCategoria": "Sadowsky-Bass",
+    "nombre": "Sadowsky MetroExpress",
+    "marca": "Sadowsky",
+    "modelo": "JJ 4 - Candy Apple Red Metallic - MA",
+    "precio": 585000,
+    "stock": 20,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/26.jpeg?alt=media&token=a026f2bf-a67c-4668-914b-74bee2f4a9e6"
+  },
+
+  {
+    "id": 27,
+    "idCategoria": "Sadowsky-Bass",
+    "nombre": "Sadowsky MetroExpress",
+    "marca": "Sadowsky",
+    "modelo": "JJ 4 - Sage Green - MP",
+    "precio": 585000,
+    "stock": 24,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/27.jpeg?alt=media&token=bd6c009b-8a3a-4bc6-96fc-37260848f716"
+  },  
+  
+  {
+    "id": 28,
+    "idCategoria": "Sadowsky-Bass",
+    "nombre": "Sadowsky MetroExpress",
+    "marca": "Sadowsky",
+    "modelo": "JJ 4 - Tobacco Burst - PF",
+    "precio": 585000,
+    "stock": 29,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/28.jpeg?alt=media&token=e50a43f2-20b9-473f-8da0-adfca829427c"
+},
+
+
+{
+    "id":29,
+    "idCategoria": "Spector-Bass",
+    "nombre": "Spector EuroBolt 5",
+    "marca": "Spector",
+    "modelo": "Inferno Red Gloss - Aguilar Electronics",
+    "precio": 1700000,
+    "stock": 13,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/29.jpeg?alt=media&token=79ecf18d-f30b-4185-9829-ecc15e74e7a5"
+  },
+  {
+    "id":30,
+    "idCategoria": "Spector-Bass",
+    "nombre": "Spector Euro 5",
+    "marca": "Spector",
+    "modelo": "RST Turquoise Tide - Aguilar Electronics",
+    "precio": 2305000,
+    "stock": 20,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/30.jpeg?alt=media&token=4743877d-3483-4dbb-8b62-00835b29de1f"
+  },
+
+  {
+    "id": 31,
+    "idCategoria": "Spector-Bass",
+    "nombre": "Spector Euro4",
+    "marca": "Spector",
+    "modelo": "LX Poplar Burl Natural Gloss",
+    "precio": 2040000,
+    "stock": 24,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/31.jpeg?alt=media&token=25d1ab5c-7fdd-4371-9bf1-4321752855b5"
+  },  
+  
+  {
+    "id": 32,
+    "idCategoria": "Spector-Bass",
+    "nombre": "Spector Euro 5",
+    "marca": "Spector",
+    "modelo": "LT Tiger Eye Gloss - Bartolini/Darkglass",
+    "precio": 2210000,
+    "stock": 29,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-39530-2023-71515.appspot.com/o/32.jpeg?alt=media&token=2433a077-e593-4386-941c-d71abbd7c55e"
+}
+]
